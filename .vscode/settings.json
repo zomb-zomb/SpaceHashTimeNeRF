@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+    "/home/zomb/anaconda3/envs/nerfstudio/lib/python3.8/site-packages/",
+    "/home/zomb/anaconda3/envs/nerfstudio/lib/python3.8/site-packages/nvcv_python-0.4.0_beta.dist-info/"
+    ],
+    "python.analysis.extraPaths": [
+    "/home/zomb/anaconda3/envs/nerfstudio/lib/python3.8/site-packages/"
+    ],      
+}
